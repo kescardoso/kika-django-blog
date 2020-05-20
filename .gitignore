@@ -1,6 +1,6 @@
 *.sqlite3
 *.pyc
 __pycache__/
-env.py
 .gitpod.yml
-.theia
+.gitpod.dockerfile
+env.py
